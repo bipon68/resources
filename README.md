@@ -11,6 +11,7 @@
 - [Kvanta](https://en.kvanta.xyz/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Make School](https://makeschool.org/mediabook/tutorials/)
+- [QuestPond](https://www.questpond.com/)
 
 
 ### Dummy APIs
