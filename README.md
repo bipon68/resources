@@ -12,6 +12,11 @@
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Make School](https://makeschool.org/mediabook/tutorials/)
 - [QuestPond](https://www.questpond.com/)
+- [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- [Scrimba](https://scrimba.com/)
+- [Angular Basics](https://github.com/kentcdodds/beginners-guide-to-react)
+- [Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
+- [Frontend learning kit](https://github.com/sadanandpai/frontend-learning-kit)
 
 
 ### Dummy APIs
