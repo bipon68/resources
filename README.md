@@ -1,5 +1,6 @@
 ## Contents
 * [Blogs / Courses / Tutorials](#blogs--courses--tutorials)
+* [Playlist](#playlist)
 * [Dummy APIs](#dummy-apis)
 * [Interview Resources](#interview-resources)
 * [Miscellaneous](#miscellaneous)
@@ -12,16 +13,22 @@
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Make School](https://makeschool.org/mediabook/tutorials/)
 - [QuestPond](https://www.questpond.com/)
-- [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - [Scrimba](https://scrimba.com/)
 - [Angular Basics](https://github.com/kentcdodds/beginners-guide-to-react)
 - [Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [Frontend learning kit](https://github.com/sadanandpai/frontend-learning-kit)
+- [Hellohasan](https://hellohasan.com/)
 
+### Playlist
+- [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+- [DSA in JavaScript](https://www.youtube.com/playlist?list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7)
+- [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
 
 ### Dummy APIs
 - [JSON Placeholder](http://jsonplaceholder.typicode.com/)
 - [Reqres](https://reqres.in/)
+- [randomuser](https://randomuser.me/api)
+
 
 ### Interview Resources
 - [FullStack.Cafe](https://www.fullstack.cafe/)
