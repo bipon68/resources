@@ -18,11 +18,13 @@
 - [Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [Frontend learning kit](https://github.com/sadanandpai/frontend-learning-kit)
 - [Hellohasan](https://hellohasan.com/)
+- [Free- rogramming books](https://github.com/EbookFoundation/free-programming-books)
 
 ### Playlist
 - [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
 - [DSA in JavaScript](https://www.youtube.com/playlist?list=PL8p2I9GklV47TMMnPzqnkCtSOS3ebr4O7)
 - [Data Structures and Algorithms - Jenny's](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU)
+- [Data Structures - Neso Academy](https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y)
 - [Algorithms - Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [Competitive Programming A-Z - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnucEu8lYMatA23OOi_De3Zp)
 - [Complete C++ Placement DSA Course - Babbar](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
@@ -33,6 +35,8 @@
 - [JSON Placeholder](http://jsonplaceholder.typicode.com/)
 - [Reqres](https://reqres.in/)
 - [randomuser](https://randomuser.me/api)
+- [RapidAPI](https://rapidapi.com/collection/list-of-free-apis)
+- [Public APIs](https://github.com/public-apis/public-apis)
 
 
 ### Interview Resources
@@ -49,6 +53,8 @@
 - [HiredInTech's Training Camp for Coding Interviews](https://www.hiredintech.com/system-design)
 - [High Scalability's top posts](http://highscalability.com/all-time-favorites/)
 - [Code Review Developer Guide](https://google.github.io/eng-practices/review/)
+- [33-js-concepts](https://github.com/priya42bagde/33-js-concepts)
+
 
 
 ### Remote Jobs
