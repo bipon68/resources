@@ -7,6 +7,7 @@
 * [Remote Jobs](#remote-jobs)
 
 ### Blogs / Courses / Tutorials
+- [Programming Problem in Bengali](https://github.com/hasancse91/Programming-Problem-In-Bengali)
 - [Getting Started with JavaScript](https://sabe.io/classes/javascript)
 - [Interviews.school](https://interviews.school/)
 - [Kvanta](https://en.kvanta.xyz/)
