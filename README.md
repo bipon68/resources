@@ -19,7 +19,8 @@
 - [Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
 - [Frontend learning kit](https://github.com/sadanandpai/frontend-learning-kit)
 - [Hellohasan](https://hellohasan.com/)
-- [Free- rogramming books](https://github.com/EbookFoundation/free-programming-books)
+- [Free Programming books](https://github.com/EbookFoundation/free-programming-books)
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 
 ### Playlist
 - [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
