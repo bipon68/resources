@@ -6,6 +6,12 @@
 * [Miscellaneous](#miscellaneous)
 * [Remote Jobs](#remote-jobs)
 
+### Resume
+- [bestfolios: Modern resume examples](https://www.bestfolios.com/resumes)
+
+### Learning Path
+- [Roadmap.sh: Developer Learning Roadmaps](https://roadmap.sh/)
+
 ### Blogs / Courses / Tutorials
 - [Programming Problem in Bengali](https://github.com/hasancse91/Programming-Problem-In-Bengali)
 - [Getting Started with JavaScript](https://sabe.io/classes/javascript)
