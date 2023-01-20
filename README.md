@@ -37,6 +37,7 @@
 - [Competitive Programming A-Z - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnucEu8lYMatA23OOi_De3Zp)
 - [Complete C++ Placement DSA Course - Babbar](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
 - [Data Structures and Algorithms in Bangla - Tamim Shahriar](https://www.youtube.com/playlist?list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_)
+- [Think in a React way](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr)
 
 
 ### Dummy APIs
